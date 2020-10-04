@@ -9,3 +9,5 @@ This Flappy Bird clone is written in JS, HTML, and CSS
 - [ ] Deployment for sharing
 	- [ ] Look for free URL host
 - [ ] Make it multiplayer
+- [ ] Add different pipe heights to make it more challenging
+- [ ] Add scoring system
