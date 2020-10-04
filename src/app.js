@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded' , () => {
     let isGameOver = false
     let gap = 430
 
-
     function startGame() {
         birdBottom -= gravity
         bird.style.bottom = birdBottom + 'px'
